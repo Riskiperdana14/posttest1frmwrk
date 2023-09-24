@@ -1,0 +1,132 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'figtree', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #333;
+  }
+  
+  header h1 {
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+  }
+  
+  .nav-list li {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+  
+  .nav-list li a {
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    padding: 10px; /* Add padding */
+  }
+  
+  .nav-list li a:hover {
+    color: #ff6347;
+    background-color: #fff; /* Add background color on hover */
+  }
+  
+  /* Efek hover pada item navigasi */
+  .nav-list li a:hover {
+    transform: scale(1.1);
+    /* Tambahkan transisi untuk efek muncul dari bawah layar */
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  /* Tambahkan transform untuk membuat item navigasi membesar ketika pengguna mengarahkan mouse ke atasnya */
+  .nav-list li a:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Gunakan kombinasi transisi dan transform untuk membuat efek yang lebih kompleks */
+  .nav-list li a:hover {
+    /* Tambahkan transisi untuk efek muncul dari bawah layar */
+    transition: transform 0.5s ease-in-out;
+    /* Tambahkan transisi untuk efek membesar */
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  /* Gunakan font yang unik untuk navigasi bar */
+  header, .nav-list {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  /* Gunakan warna yang kontras untuk navigasi bar */
+  header {
+    background-color: #333;
+  }
+  
+  .nav-list li a {
+    color: white;
+  }
+  
+  .nav-list li a:hover {
+    color: #ff6347;
+    background-color: #fff;
+  }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container img {
+    width: 50%;
+    border-radius: 15px;
+}
+
+.container h1, .container h2 {
+    text-align: center;
+}
+
+body {
+    background-color: #141414;
+    color: #ffffff;
+    font-family: 'figtree', sans-serif;
+}
+
+.movie-banner, .series-grid {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.movie-grid, .series-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.movie-card, .series-card {
+    background-color: #333333;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.movie-card img, .series-card img {
+    width: 100%;
+}
+
+.movie-card h3, .series-card h3 {
+    text-align: center;
+}
