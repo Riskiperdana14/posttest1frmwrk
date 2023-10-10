@@ -33,41 +33,7 @@
             <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
             <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
         </div>
-        <div class="movie-card">
-            <h3>Barbie</h3>
-            <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
-            <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
-        </div>
-        <div class="movie-card">
-            <h3>Barbie</h3>
-            <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
-            <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
-        </div>
-        <div class="movie-card">
-            <h3>Barbie</h3>
-            <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
-            <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
-        </div>
-        <div class="movie-card">
-            <h3>Barbie</h3>
-            <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
-            <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
-        </div>
-        <div class="movie-card">
-            <h3>Barbie</h3>
-            <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
-            <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
-        </div>
-        <div class="movie-card">
-            <h3>Barbie</h3>
-            <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
-            <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
-        </div>
-        <div class="movie-card">
-            <h3>Barbie</h3>
-            <img src="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" alt="Barbie">
-            <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
-        </div>
+        
     </div>
 
     <h2>Series</h2>
@@ -77,41 +43,7 @@
             <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
             <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
         </div>
-        <div class="series-card">
-            <h3>One Piece</h3>
-            <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
-            <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
-        </div>
-        <div class="series-card">
-            <h3>One Piece</h3>
-            <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
-            <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
-        </div>
-        <div class="series-card">
-            <h3>One Piece</h3>
-            <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
-            <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
-        </div>
-        <div class="series-card">
-            <h3>One Piece</h3>
-            <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
-            <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
-        </div>
-        <div class="series-card">
-            <h3>One Piece</h3>
-            <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
-            <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
-        </div>
-        <div class="series-card">
-            <h3>One Piece</h3>
-            <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
-            <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
-        </div>
-        <div class="series-card">
-            <h3>One Piece</h3>
-            <img src="https://image.tmdb.org/t/p/w500//fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" alt="One Piece">
-            <p>Petualangan epik Monkey D. Luffy dan krunya dalam pencarian harta karun legendaris. Mereka menjelajahi Grand Line, menghadapi musuh kuat, dan mengungkap misteri.</p>
-        </div>
+        
         
     </div>
 

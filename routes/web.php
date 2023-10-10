@@ -32,3 +32,7 @@ Route::get('/series', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::post('/submit_guest', 'App\Http\Controllers\GuestController@store');
+
+Route::post('/submit_comment', 'App\Http\Controllers\CommentController@store');

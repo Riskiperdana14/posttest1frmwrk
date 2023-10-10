@@ -67,5 +67,15 @@ ini halaman movies
             <p>Barbie dan Ken memasuki dunia nyata dalam petualangan komedi fantasi yang mengubah hidup mereka selamanya</p>
         </div>
     </div>
+    <div class="container">
+        <h2>Form Tamu</h2>
+        <form action="/submit_guest" method="post">
+            @csrf
+            <label for="guest">Komentar (maksimal 200 kata):</label><br>
+            <textarea id="guest" name='komentar' maxlength="200" required></textarea><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    
 
 @endsection

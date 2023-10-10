@@ -48,4 +48,15 @@ ini halaman series
     
 </div>
 
+<div class="container">
+    <h2>Form Komentar</h2>
+    <form action="/submit_comment" method="post">
+        @csrf  
+        <label for="comment">Komentar (maksimal 200 kata):</label><br>
+        <textarea id="comment" name='komentar' maxlength="200" required></textarea><br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+
+
 @endsection
